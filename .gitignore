@@ -1,0 +1,23 @@
+# Rust build artifacts
+/target/
+/debug/
+/release/
+
+# Rust package manager
+/Cargo.lock
+
+# IDE and editor files
+/.idea/
+/.vscode/
+/*.iml
+
+# Misc
+.DS_Store
+Thumbs.db
+
+# Exclude test-repo directory
+/test-repo/
+
+
+
+/target
